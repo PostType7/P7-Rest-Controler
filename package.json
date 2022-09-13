@@ -1,0 +1,16 @@
+{
+  "name": "@dadmor/p7-rest-controler",
+  "version": "1.0.3",
+  "description": "Ultra light REST API controller",
+  "license": "MIT",
+  "repository": "PostType7/P7-Rest-Controler",
+  "main": "P7RestControler.ts",
+  "keywords": [
+    "rest",
+    "npm",
+    "package",
+    "react",
+    "restapi"
+    "fetch"
+  ]
+}
